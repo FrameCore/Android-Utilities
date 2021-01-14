@@ -1,4 +1,4 @@
-    public static void moveTotop(final View view, final float p1, final float p2) {
+    public static void moveUP(final View view, final float p1, final float p2) {
         TranslateAnimation animation = new TranslateAnimation(
                 Animation.ABSOLUTE, 0f,
                 Animation.ABSOLUTE, 0f,
